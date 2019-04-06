@@ -1,0 +1,24 @@
+{
+  "name": "js-tdd",
+  "version": "1.0.0",
+  "description": "JS TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gizellystefanny/js-tdd.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "test"
+  ],
+  "author": "Gizelly Steffanny <gizellysteffanny@gmail.com> (https://gizellysteffanny.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gizellystefanny/js-tdd/issues"
+  },
+  "homepage": "https://github.com/gizellystefanny/js-tdd#readme"
+}
